@@ -1,9 +1,9 @@
 # Web3 Wisdom Vault
 
+[English](./README.md) | [中文](./README_CN.md)
+
 Welcome to the Web3 Wisdom Vault! This repository serves as a comprehensive knowledge base for Web3 technologies, concepts, and applications.
-<p>
-[English](#english) | [中文](./README_CN.md)
-</p>
+
 The project is still in its initial stage, and it is a compilation of the materials I use to learn about web3 along the way.
 
 ## 📚 About
