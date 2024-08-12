@@ -29,6 +29,7 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 ---
 ## Learning Road Map 
 [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map?tab=readme-ov-file)
+[blockend-developer-roadmap](https://github.com/Envoy-VC/blockend-developer-roadmap)
 
 
 ---
