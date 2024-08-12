@@ -1,6 +1,6 @@
 # Web3 Wisdom Vault | Web3 智慧宝库
 
-[English](#english) | [中文](#中文)
+[English](#english) | [中文](./README_CN.md)
 
 ---
 
