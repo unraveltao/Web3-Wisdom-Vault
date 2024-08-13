@@ -39,7 +39,9 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 - [Dapp University](https://youtube.com/c/DappUniversity) - Learn to build decentralized apps on Ethereum Blockchain and smart contracts hacking tutorials.
 - [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto/featured) - It offers clear and concise explanations of complex cryptocurrency and blockchain concepts through engaging whiteboard-style animated videos.
 
+## Tutorail
 
+- [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
 
 ---
 ## 📞 Contact
