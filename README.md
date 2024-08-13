@@ -40,9 +40,13 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 - [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto/featured) - It offers clear and concise explanations of complex cryptocurrency and blockchain concepts through engaging whiteboard-style animated videos.
 
 ## Tutorail
-
+- [LearnWeb3](https://learnweb3.io/) - LearnWeb3 is the leading educational ecosystem in Web3. They offer a wide range of educational courses, resources, and tools that are designed to help developers learn and grow in the Web3 space.
 - [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
 
+## Website
+
+- [Defillama](https://defillama.com/)- Finematics delivers in-depth, animated explanations of decentralized finance (DeFi) protocols and Web3 concepts, providing viewers with a comprehensive understanding of complex blockchain ecosystems and financial mechanisms.
+- 
 ---
 ## 📞 Contact
 For any questions or suggestions, please open an issue in this repository or contact the maintainers at [irontom233@gmail.com].
