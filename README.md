@@ -25,11 +25,20 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 6. [Decentralized Autonomous Organizations (DAOs)](#)
 7. [Web3 Development Tools](#)
 8. [Web3 Security and Best Practices](#)
+9. [Learning Road Map](#)
+10. [YouTube Channel](#)
 
 ---
 ## Learning Road Map 
 - [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map?tab=readme-ov-file)
 - [blockend-developer-roadmap](https://github.com/Envoy-VC/blockend-developer-roadmap)
+
+## YouTube Channel
+
+- [Chainlink](https://www.youtube.com/c/chainlink/playlists) - Videos about blockchain basics, oracles, Free Code Camp and more.
+- [Dapp University](https://youtube.com/c/DappUniversity) - Learn to build decentralized apps on Ethereum Blockchain and smart contracts hacking tutorials.
+- [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto/featured) - It offers clear and concise explanations of complex cryptocurrency and blockchain concepts through engaging whiteboard-style animated videos.
+
 
 
 ---
