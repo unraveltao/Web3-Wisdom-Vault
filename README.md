@@ -17,16 +17,11 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 - Glossary of Web3 terminology
 
 ## 📋 Table of Contents
-1. [Introduction to Web3](#)
-2. [Blockchain Fundamentals](#)
-3. [Smart Contracts](#)
-4. [Decentralized Finance (DeFi)](#)
-5. [Non-Fungible Tokens (NFTs)](#)
-6. [Decentralized Autonomous Organizations (DAOs)](#)
-7. [Web3 Development Tools](#)
-8. [Web3 Security and Best Practices](#)
-9. [Learning Road Map](#)
-10. [YouTube Channel](#)
+
+1. [Website](#Website)
+2. [Tutorial](#Tutorail)
+3. [Learning Road Map](#YouTube Channel)
+4. [YouTube Channel](#Learning Road Map)
 
 ---
 ## Learning Road Map 
@@ -45,8 +40,9 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 
 ## Website
 
-- [Defillama](https://defillama.com/)- Finematics delivers in-depth, animated explanations of decentralized finance (DeFi) protocols and Web3 concepts, providing viewers with a comprehensive understanding of complex blockchain ecosystems and financial mechanisms.
-- 
+- [Defillama](https://defillama.com/) - Finematics delivers in-depth, animated explanations of decentralized finance (DeFi) protocols and Web3 concepts, providing viewers with a comprehensive understanding of complex blockchain ecosystems and financial mechanisms.
+- [uniswap](https://uniswap.org/) - Developers, traders, and liquidity providers participate together in a financial marketplace that is open and accessible to all.
+- [chainlist](https://chainlist.org/) - ChainList is a list of EVM networks. Users can use the information to connect their wallets and Web3 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain.
 ---
 ## 📞 Contact
 For any questions or suggestions, please open an issue in this repository or contact the maintainers at [irontom233@gmail.com].
