@@ -22,6 +22,8 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 2. [YouTube Channel](#YouTube-Channel)
 3. [Website](#Website)
 4. [Tutorial](#Tutorail)
+5. [Crypto Wallets](#Crypto-Wallets)
+6. [Protocol](#Protocol)
 
 ---
 ## Learning Road Map 
@@ -61,8 +63,8 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 
 ## Protocol
 
-[WalletConnect](https://walletconnect.com/) - An open protocol that enables wallets to connect to DApps via QR code scanning, widely supported across various wallet applications.
-[uniswap protocol](https://uniswap.org/) - the automated market maker (AMM) model in decentralized finance (DeFi).
+- [WalletConnect](https://walletconnect.com/) - An open protocol that enables wallets to connect to DApps via QR code scanning, widely supported across various wallet applications.
+- [uniswap protocol](https://uniswap.org/) - the automated market maker (AMM) model in decentralized finance (DeFi).
 
 ---
 ## 📞 Contact
