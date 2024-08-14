@@ -35,6 +35,7 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 - [Chainlink](https://www.youtube.com/c/chainlink/playlists) - Chainlink is the universal platform for builders and financial institutions pioneering the future of global markets onchain.
 - [Dapp University](https://youtube.com/c/DappUniversity) - Learn to build decentralized apps on Ethereum Blockchain and smart contracts hacking tutorials.
 - [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto/featured) - It offers clear and concise explanations of complex cryptocurrency and blockchain concepts through engaging whiteboard-style animated videos.
+- [Coinbase](https://www.youtube.com/@coinbase/videos) - Coinbase is one of the largest and most well-known cryptocurrency exchanges and financial services platforms in the world.
 
 ## Tutorail
 - [LearnWeb3](https://learnweb3.io/) - LearnWeb3 is the leading educational ecosystem in Web3. They offer a wide range of educational courses, resources, and tools that are designed to help developers learn and grow in the Web3 space.
