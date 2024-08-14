@@ -18,10 +18,10 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 
 ## 📋 Table of Contents
 
-1. [Website](#Website)
-2. [Tutorial](#Tutorail)
-3. [Learning Road Map](#YouTube Channel)
-4. [YouTube Channel](#Learning Road Map)
+1. [Learning Road Map](#Learning Road Map)
+2. [YouTube Channel](#YouTube Channel)
+3. [Website](#Website)
+4. [Tutorial](#Tutorail)
 
 ---
 ## Learning Road Map 
