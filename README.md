@@ -1,6 +1,6 @@
 # Web3 Wisdom Vault
 
-[English](./README.md) | [中文](./README_CN.md)
+
 
 Welcome to the Web3 Wisdom Vault! This repository serves as a comprehensive knowledge base for Web3 technologies, concepts, and applications.
 
@@ -16,6 +16,17 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 - Latest trends and developments in the Web3 space
 - Glossary of Web3 terminology
 
+## 👌🏻 Todolist
+- [ ] Add more resources and materials
+- [ ] Add more case studies
+- [ ] Add more tutorials
+- [ ] Add more explanations
+- [ ] Add more glossary
+- [ ] Categorize content
+- [ ] Improve directory structure
+- [ ] Improve README
+- [ ] Improve contributing guide
+
 ## 📋 Table of Contents
 
 1. [Learning Road Map](#Learning-Road-Map)
@@ -27,9 +38,11 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 
 ---
 ## Learning Road Map 
+
+- ⭐⭐⭐[Developer Roadmaps](https://roadmap.sh/) - A curated list of roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learning
 - [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map?tab=readme-ov-file)
 - [blockend-developer-roadmap](https://github.com/Envoy-VC/blockend-developer-roadmap)
-
+  
 ## YouTube Channel
 
 - [Chainlink](https://www.youtube.com/c/chainlink/playlists) - Chainlink is the universal platform for builders and financial institutions pioneering the future of global markets onchain.
