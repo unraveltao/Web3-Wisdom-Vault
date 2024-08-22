@@ -1,7 +1,5 @@
 # Web3 Wisdom Vault
 
-
-
 Welcome to the Web3 Wisdom Vault! This repository serves as a comprehensive knowledge base for Web3 technologies, concepts, and applications.
 
 The project is still in its initial stage, and it is a compilation of the materials I use to learn about web3 along the way.
@@ -39,8 +37,7 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 ---
 ## Learning Road Map 
 
-![blockchain Roadmap](./asserts/blockchain.jpg)
-
+- [Blockchain Development Resources](https://github.com/frankiefab100/Blockchain-Development-Resources)
 - ⭐⭐⭐[Developer Roadmaps](https://roadmap.sh/) - A curated list of roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learning
 - [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map?tab=readme-ov-file)
 - [blockend-developer-roadmap](https://github.com/Envoy-VC/blockend-developer-roadmap)
@@ -54,7 +51,6 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 
 ## Tutorail
 - [LearnWeb3](https://learnweb3.io/) - LearnWeb3 is the leading educational ecosystem in Web3. They offer a wide range of educational courses, resources, and tools that are designed to help developers learn and grow in the Web3 space.
-- [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
 
 ## Website
 
@@ -71,7 +67,7 @@ Web3 Wisdom Vault is a curated collection of learning materials, insights, and r
 
 ---
 ## 📞 Contact
-For any questions or suggestions, please open an issue in this repository or contact the maintainers at [irontom233@gmail.com].
+For any questions or suggestions, please open an issue in this repository or contact the maintainers at irontom233@gmail.com.
 
 Happy learning, and welcome to the exciting world of Web3!
 
